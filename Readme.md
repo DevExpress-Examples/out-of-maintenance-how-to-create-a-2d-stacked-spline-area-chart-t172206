@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/StackedSplineAreaChart/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/StackedSplineAreaChart/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a 2D Stacked Spline Area Chart
 
 
